@@ -31,6 +31,7 @@ EVENT_CLASS_MAP = {
     "LAUGH": ["Laughter", "Chuckle, chortle", "Giggle"],
     "COUGH": ["Cough", "Throat clearing"],
     "SHOUT": ["Shout", "Yell", "Screaming", "Battle cry"],
+    "BURP" : ["Burping, eructation", "Gargling", "Stomach rumble"],
 }
 
 SAMPLE_RATE = 16000  # AST model expects 16 kHz
